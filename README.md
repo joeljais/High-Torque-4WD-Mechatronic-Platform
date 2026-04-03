@@ -1,5 +1,5 @@
 # 4WD-Mechatronic-Test-Platform
-High-torque 4WD off-road vehicle featuring a 4-channel relay power-isolation system and Bluetooth-integrated control logic.
+High-torque 4WD Vaccum Powered Leaf Collection vehicle featuring a 4-channel relay power-isolation system and Bluetooth-integrated control logic.
 ---
 
 ## 📸 Project Gallery

@@ -5,6 +5,6 @@ High-torque 4WD off-road vehicle featuring a 4-channel relay power-isolation sys
 ## 📸 Project Gallery
 | High-Torque Chassis | Control Electronics |
 | :--- | :--- |
-| ![Chassis](media/chassis_photo.jpg) | ![Wiring](media/wiring_photo.jpg) |
+| ![Chassis](media/Full_Chasis.jpg) | ![Wiring](docs/wiring_diagram.jpg) |
 
 > **Note:** Above are the 120W motors and the 30A relay switching system during the "Alpha" testing phase.
